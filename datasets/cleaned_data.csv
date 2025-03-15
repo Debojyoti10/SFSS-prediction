@@ -1,0 +1,141 @@
+AGE,GENDER,MELD at Surgery,End Portal Pressure,RECONSTRUCTION,HEIGHT,WEIGHT,GRAFT WEIGHT,CIT,SECONDARY WARM ISCHAEMIC TIME,END LACTATE,Blood loss,DM,ENCEPHALOPATHY,ASCITES,CHILD PUGH SCORE,HB,PLATELET COUNT,INR,S.FIBRINOGEN,TOTAL BILLIRUBIN,CREATININE,ALBUMIN,Porto-caval shunt,Intraop peak lactate,Intraop End lactate,SFSS
+62,M,25.0,11.0,IRHV reconstruction,163.0,71.0,439.0,64,32,4.5,1000,Yes,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,Yes,4.9,4.4,0.04032258064516129
+41,M,19.0,12.0,"SRHV+RHV - Quilt & Fence Patch, IRHV",168.8336283185841,72.9,557.0,77,56,3,1000,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,No,5.1,3,0.0
+39,M,32.0,11.0,"V8  on cadaveric iliac vein, 2 IRHV on fence graft",168.0,69.0,476.0,181,53,5.4,1500,No,No,No,,10.2,141000.0,1.86,162.5,11.91,0.7,2.5,Yes,5.4,5.4,0.0
+67,M,9.0,10.0,V5 + V8 + IRHV reconstruction,178.0,81.0,631.0,153,48,1.7,1600,Yes,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,No,1.7,1.7,0.0
+60,M,11.0,10.0,V8 on cadaveric iliac vein,165.0,71.0,487.0,157,42,4.4,1000,Yes,No,No,B,13.3,48000.0,1.24,244,1.86,0.8,4.1,Yes,5.3,4.4,0.0
+63,M,16.0,13.0,V5 + V8 + IRHV reconstruction,167.0,68.0,506.0,117,56,4.9,2700,Yes,No,No,,,39000.0,1.22,,1.4,1.4,3.7,Yes,4.9,4.9,0.0
+50,M,16.0,10.0,V5 PTFE,168.8336283185841,93.0,523.0,135,41,1.7,2500,No,No,No,No,10.1,76000.0,1.63,191,3.5,0.8,3.3,Yes,2,1.7,0.0
+53,M,17.0,10.0,V5 + V8 + IRHV reconstruction,168.8336283185841,91.0,695.0,225,62,3.7,2000,No,No,No,,11.6,125000.0,1.52,185,4.6,0.9,3.1,No,3.7,3.7,0.0
+52,M,15.0,9.0,"V5 + V8 on cadaveric iliac vein, 2 IRHV - venoplasty with cadaveric vein fence graft",174.0,107.0,812.0,127,65,1.4,Not Mentioned,No,No,No,B,12.4,131000.0,1.21,430,9.3,0.6,3.5,No,Not Mentioned,Not Mentioned,0.0
+70,M,14.0,12.0,V5 + V8 + IRHV reconstruction,182.0,80.0,447.0,173,71,5.5,~2200,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,Yes,5.8,5.5,1.0
+46,M,13.0,13.0,V8 on 8mm PTFE,155.0,87.0,600.8,150,61,3.86,800-900,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,No,3.8,3.6,0.0
+44,M,16.0,12.0,RHV/ two IRHV Fencing/ v5 constructed pm PTFE,178.0,79.0,582.0,149,70,,4500,No,Not Mentioned,Not Mentioned,Not Mentioned,8.7,112000.0,4.698348623853211,78,2.92,0.8,3.6,Not Mentioned,9,7,1.0
+47,M,29.0,11.0,V5 + V8 on cadaveric iliac vein,180.0,110.0,736.0,78,80,2.8,3700,No,Not Mentioned,Not Mentioned,Not Mentioned,8.7,106000.0,1.79,,24.27,1.8,3.3,Yes,4.1,2.8,1.0
+64,M,12.0,11.0,V5 + V8 reconstructed with bovine pericardial patch,166.0,86.0,690.0,155,45,3.4,1300,Yes - 5yrs on OHA,No,Yes,Not Mentioned,10.5,69000.0,1.4,163,1.14,1.0,3.2,No,5.3,3.4,0.0
+50,F,14.0,11.0,V5 + V8 + IRHV reconstruction,148.0,82.0,594.0,108,32,3.1,~2500,Yes,Not Mentioned,Not Mentioned,Not Mentioned,9.4,130000.0,1.14,347,1.37,1.1,3.0,No,3.3,3.1,0.0
+49,M,11.0,12.0,V8 PTFE / PV extension with native,169.0,86.4,534.0,200,55,9.8,1200,No,Not Mentioned,Not Mentioned,,10.6,101000.0,1.09,315,0.73,0.9,4.1,Yes,10.2,9.8,0.0
+33,M,12.0,11.0,V8 on bovine pericardium,190.0,94.8,534.0,91,66,2.2,600,Yes,Not Mentioned,Not Mentioned,Not Mentioned,13.2,51000.0,1.15,209,1.5,0.9,4.2,Yes,2.9,2.2,0.0
+55,M,9.0,10.0,"IRHV, V5 and V8 reconstructed using donor iliac vein, Two portal veins reconstructed using recipient portal vein Y interposition graft 
+Graft reimplanted with RHV to RHV, IRHV to cava, V5/V8 reconstructed vein to LHV/MHV, Artery to recipient left hepatic artery, Two bile ducts – RPSD to cystic duct. RASD to CHD",175.0,78.3,536.0,147,64,5.4,900,No,No,No,A,12.9,140000.0,0.93,395,0.33,1.1,4.0,Yes,NM,NM,0.0
+59,F,17.0,12.0,V5 (PTFE),168.0,72.0,564.0,107,37,2,400,Yes,Not Mentioned,Not Mentioned,Not Mentioned,12,102000.0,1.33,210,1.34,0.8,3.3,No,NM,NM,0.0
+53,M,16.0,9.0,V5 and V8 cadaveric iliac vein reconstruction,162.0,96.8,704.0,75,45,2.4,1000,Yes,Not Mentioned,Not Mentioned,Not Mentioned,9.3,61000.0,1.33,201,1.27,1.3,2.9,Yes,3,2.4,0.0
+59,F,12.0,11.0,V5 + V8 + IRHV reconstruction,154.7,63.0,450.0,193,48,3.9,2500,No,Not Mentioned,Not Mentioned,Not Mentioned,7.4,43000.0,1.1,168,2.84,4.2,3.3,No,4.3,3.9,0.0
+52,F,31.0,12.0,"V5 and V8 reconstruction with PTFE and cadaveric artery.
+Single RPV with extension graft, single RHA",155.0,86.0,666.0,126,45,2.1,3000,Yes,Not Mentioned,Not Mentioned,Not Mentioned,11.8,267000.0,4.698348623853211,284,0.46,0.7,4.3,No,2.8,2.1,0.0
+52,M,19.0,12.0,"V5 and 8 on Cadaveric Iliac vein graft
+2 IRHVs (septoplasty done, single anastomosis),Single RHA, RPSD to Cystic duct, RASD to CHD",182.0,98.9,614.0,187,58,7.2,4500,No,Yes,No,Not Mentioned,9,50000.0,1.45,154,2.28,1.3,3.1,No,7.2,7.2,0.0
+44,M,21.0,12.0,V5 + V8 + IRHV reconstruction,171.0,85.5,677.0,152,41,1.7,,Yes,Not Mentioned,Not Mentioned,Not Mentioned,11.5,63000.0,1.54,141,2.19,0.8,3.3,No,,,0.0
+52,M,28.0,9.0,V5 + V8 + IRHV reconstruction,175.0,84.0,624.0,220,50,12.1,1500,No,Not Mentioned,Not Mentioned,Not Mentioned,10.6,84000.0,3.94,116,5.43,0.9,2.6,No,12.9,12.1,0.0
+56,M,28.0,15.0,V5 and V8 reconstruction on 8mm PTFE,171.0,78.0,580.0,121,55,6.8,1800,No,Not Mentioned,Not Mentioned,Not Mentioned,11.9,112000.0,1.42,178,8.52,1.0,3.0,No,7,6.8,0.0
+54,M,16.0,11.0,"cadaveric iliac vein graft for V5/V8, native portal vein extension graft, two duct-duct anastomosis (ONLY SKIN CLOSED with plan for re-exploration and fascial closure)",178.0,82.0,640.0,150,45,3.8,3000,No,Not Mentioned,Not Mentioned,,9,142000.0,1.52,155,2.03,0.71,2.9,No,5.1,3.8,0.0
+53,M,19.0,11.0,Extension graft (Cadaveric IVC),161.0,63.5,494.0,130,33,3.5,3000-3500,Yes - on treatment,Not Mentioned,Not Mentioned,Not Mentioned,11.2,66000.0,1.38,148,4.31,0.53,3.1,No,3.5,3.5,0.0
+38,M,17.0,11.0,Two  RPV- conjoined unification venoplasty using cadeveric vein graft- (to MPV). Single RHA (to CHA,165.0,80.0,544.0,124,60,5.2,1200,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,Yes,6.4,6.4,0.0
+49,M,19.0,14.0,"MHV-LHV – venoplasty, Single portal vein, Two LHA (Seg 4 artery branch from the RHA ligated) Single duct – duct to duct anastamosis",169.0,60.0,470.0,44,34,3.1,800,Yes - 1 yr,Not Mentioned,Not Mentioned,Not Mentioned,12.2,46000.0,1.75,138,2.96,0.5,2.9,No,3.9,3.1,0.0
+66,F,12.0,11.0,"MHV-LHV – venoplasty, Single portal vein(Interposition graft used), Single LHA,Single duct – duct to duct anastamosis",162.0,52.5,386.0,55,42,8.5,800,No,Not Mentioned,Not Mentioned,Not Mentioned,11.4,94000.0,1.35,135,2.37,0.65,3.0,No,8.5,8.5,0.0
+47,M,17.0,9.0,V5 & V8 reconstruction,179.0,91.0,708.0,165,65,4.3,1500,Yes,Not Mentioned,Not Mentioned,Not Mentioned,9.4,60000.0,1.92,< 50,4.52,1.8,2.9,No,5.2,4.3,0.0
+52,M,19.0,8.0,"V5, V8 cadaveric iliac vein reconstruction, 2 duct to duct anastomosis – (LHD to RPSD (2 ducts), RHD to RASD, Seg 5 duct sutured) , single artery, single portal vein",159.0,91.0,636.0,80,60,2,Not Mentioned,Yes,Not Mentioned,Not Mentioned,Not Mentioned,10.6,78000.0,1.91,257,4.45,0.6,2.5,No,3.7,2,0.0
+32,M,17.0,10.0,V5 + V8,168.8336283185841,70.0,553.0,104,42,2.9,1200,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,Yes,3.9,2.9,0.0
+32,M,25.0,11.0,V5 and V8 cadaveric illiac vein reconstruction,178.0,85.0,598.0,116,45,3.8,3000,NO,Not Mentioned,Not Mentioned,,11.9,78000.0,4.698348623853211,175,3.46,3.869646017699115,3.2,No,3.8,3.8,0.0
+51,M,20.0,18.0,"V5+V8 reconstruction, PV reconstruction",170.0,73.5,500.0,146,50,3.8,1700,Yes - Insulin,Yes,Yes,C,9.2,67000.0,1.8,,5.03,0.6,2.5,Yes,3.8,3.8,0.0
+48,M,21.0,14.0,"V8 reconstruction on cadaveric vein graft, Single RPV with extension graft",176.0,106.0,716.0,193,41,5,1700,No,Not Mentioned,Not Mentioned,Not Mentioned,13.2,97000.0,1.39,101,3.42,0.83,2.9,Yes,5.1,5,0.0
+63,M,8.0,10.0,V5 + V8 + IRHV reconstruction,168.0,60.9,490.0,220,50,3.4,900,Yes - 10yrs,Yes,Yes,C,13,62000.0,1.18,271,1.85,0.69,2.5,No,4.4,3.4,0.0
+57,M,26.0,15.0,"IRHV reimplantation. One V5 reconstructed with PTFE conduit and one V8 joined to PTFE with cadaveric iliac artery. Single RPV, Single RHD, One RHD – single anastomosis to CHD",169.0,95.4,586.0,124,60,2.4,1200,Yes,No,No,Not Mentioned,9.7,51000.0,1.76,166,2.16,1.42,2.9,Yes,3.1,2.4,0.0
+48,M,23.0,17.0,"PTFE  reconstruction, Single PV, Single HA.  Single duct - duct to duct anastomosis ",188.0,88.0,698.0,95,32,7.4,1000,Yes,Yes,Yes,C,8.1,66000.0,1.5,148,6.51,0.68,2.8,No,7.4,7.4,0.0
+55,M,16.0,16.0,V5 + V8 + IRHV reconstruction,168.8336283185841,84.0,614.0,151,44,4.4,,Yes - 20yrs,Yes,Yes,C,7.6,153000.0,1.15,297,0.87,1.05,2.9,No,,,0.0
+50,M,27.0,8.0,V5 + V8 + IRHV reconstruction,170.0,79.5,602.0,110,37,,1800,No,No,No,Not Mentioned,9.7,120000.0,1.86,142,12.9,0.73,2.7,No,3.8,3.6,0.0
+21,M,40.0,11.0,V5 and V8( Cadaveric iliac vein) reconstruction,168.8336283185841,90.0,666.0,96,36,9,800,No,Not Mentioned,No,Not Mentioned,11.7,31000.0,3.65,,13,0.79,2.9,No,9.2,9,1.0
+58,M,16.0,11.0,V5 + V8 reconstruction on cadaveric iliac vein,172.0,91.0,688.0,110,61,13,2800,Yes,Yes,Yes,C,8.9,120000.0,1.28,206,2.06,1.6,3.7,No,13,13,0.0
+59,M,11.0,14.0,V5 on PTFE,171.0,85.0,634.0,130,55,9,2300,No,Not Mentioned,Not Mentioned,,15.9,85000.0,1.21,255,2.11,0.93,3.1,No,9,9,0.0
+49,M,14.0,12.0,"2 * V8 reconstruction on composite graft ( native PV + 8 mm PTFE), One IRHV, Single RPV, single RHA, and Two ducts - RASD to CHD & RPSD to Cystic duct ",168.0,86.0,610.0,175,51,10.2,2500,Yes,Not Mentioned,Not Mentioned,,10.4,42000.0,1.42,136,3.33,1.01,2.3,No,10.2,10.2,0.0
+54,M,18.0,12.0,"V8 reconstruction PTFE, Single RPV, single RHA, and single RHD ",168.8336283185841,103.07,722.0,83,45,1.5,1000,No,Not Mentioned,Not Mentioned,,10.8,100000.0,2.06,137,2.26,1.07,2.5,No,1.9,1.5,0.0
+32,F,17.0,10.0,MHV reconstructed using 10mm PTFE,168.8336283185841,67.0,466.0,197,48,16,1800,No,Not Mentioned,Not Mentioned,,10.5,98000.0,3.96,<50,6.17,0.74,2.9,Yes,18,16,1.0
+46,M,22.0,11.0,"2 IRHV  with cad iliac vein fence graft
+V5,V8 On Composite graft, Single RHA, 
+Two ducts : single anastomosis",178.0,81.0,486.0,327,44,3.8,2500,Yes - 20yrs on Insulin,Not Mentioned,Not Mentioned,B,10.8,213000.0,1.17,223,4.14,1.38,3.7,No,4.6,3.8,0.0
+47,M,17.0,11.0,"Two portal vein reconstructed by conjoint venoplasty, V8 on 8mm PTFE graft",175.0,90.9,590.0,234,37,3,Not Mentioned,Yes - 2011,Not Mentioned,Not Mentioned,Not Mentioned,10.1,82000.0,1.73,,6.15,0.97,3.5,No,3.3,3.3,0.0
+39,M,29.0,11.0,"V5 and V8  recontruction with Complex PTFE/  Cadaveric iliac vein graft , 2 PV with Y plasty, IRHV x2- unification venoplaty and posterior wall extension, Single Bile duct  in  single anastomosis ",177.0,91.6,622.0,222,54,2.9,3000,No,Not Mentioned,Not Mentioned,Not Mentioned,8.7,122000.0,1.95,132,2.69,0.8,3.0,Yes,3.7,2.9,0.0
+65,F,14.0,11.0,"Single portal vein, Two LHA (Seg4 artery ligated), Two ducts: single anastomosis with LHD",156.0,55.0,408.0,122,33,5,3000,Yes - 10yrs,No,Yes,Not Mentioned,8.7,100000.0,1.27,277,3.02,0.92,2.0,No,5.7,5,0.0
+49,M,26.0,11.0,"V5,V8 On Composite graft, Single RHA, 
+Two ducts : Two anastomosis, RASD to RHD, RPSD to LHD",167.0,90.0,630.0,179,50,2.4,2500,No,Not Mentioned,Not Mentioned,,11,50000.0,1.91,66,4.08,0.83,3.5,Yes - Temporary PCS,2.4,2.4,0.0
+66,M,16.0,8.0,V5 + V8 + IRHV reconstruction,172.0,81.0,608.0,117,52,1.7,7400,No,Not Mentioned,Not Mentioned,,10.7,57000.0,1.62,208,3.32,0.84,2.4,Yes,2.9,1.7,0.0
+57,M,11.0,11.0,V8 - PTFE,173.0,82.0,584.0,262,44,6.1,3000,No,Not Mentioned,Not Mentioned,,10,243000.0,1.27,317,0.53,1.15,3.4,No,6.2,6.1,0.0
+58,M,21.0,10.0,V5 + V8 + IRHV reconstruction,168.8336283185841,85.0,582.0,118,23,,2000,No,Not Mentioned,Not Mentioned,,9.2,105000.0,1.86,170,1.72,1.74,3.9,No,3.8,2.1,0.0
+42,M,30.0,9.0,"V5 & V8 PTFE composite reconstruction, Single portal vein and single artery. 2 Bile duct single D-D anastamosis",178.0,72.0,576.0,93,57,4.4,2000,Yes - 4yrs,Not Mentioned,Not Mentioned,Not Mentioned,12.6,149000.0,2.45,171,3.3,1.72,3.2,No,6.9,4.4,0.0
+61,M,9.0,9.0,V8 reconstructed using 10mm PTFE,179.0,92.0,730.0,75,67,6.5,1200,No,Not Mentioned,Not Mentioned,,10.2,82000.0,1.25,172,0.45,1.02,3.4,Yes,8.3,6.5,0.0
+41,M,25.0,11.0,V5 + V8 + IRHV reconstruction,181.0,72.5,578.0,123,42,3.4,1500,No,Not Mentioned,Not Mentioned,,8.5,138000.0,1.7,295,10.01,0.75,3.9,No,3.4,3.4,0.0
+48,M,11.0,11.0,V5 + V8 + IRHV reconstruction,155.0,84.5,612.0,84,51,4,600,YES,Not Mentioned,Not Mentioned,,11.6,100000.0,4.698348623853211,289,1.85,0.82,3.6,No,4,4,0.0
+41,M,15.0,12.0,"One artery,  One duct ducts: single anastomosis",168.8336283185841,68.0,506.0,24,38,2.3,700,YES,Not Mentioned,Not Mentioned,,9.7,68000.0,1.54,225,1.61,0.67,2.6,No,2.8,2.3,0.0
+62,M,19.0,11.0,"RHV with PTFE (partial MHV + V8) lumen (15 mm), V8, Single RPV and single artery, single RHD to CHD. ",159.0,98.3,660.0,136,48,8.2,850,NO,NO,Not Mentioned,NO,12.5,77000.0,2.21,155,4.06,0.7,2.9,No,9.2,8.2,0.0
+52,F,13.0,9.0,"RHV to IVC, No anterior secto. Single RRHA (to RHA). 2 ducts in cuff RHDto CHD single anastomosis",156.0,89.1,688.0,73,43,2.7,800,NO,Not Mentioned,Not Mentioned,,12.2,54000.0,1.24,347,0.92,0.71,3.3,No,2.8,2.7,0.0
+44,M,20.0,10.0,V5 + V8 + IRHV reconstruction,168.8336283185841,109.0,712.0,81,49,3.9,3200,YES,Not Mentioned,Not Mentioned,,11.2,42000.0,1.72,,4.01,0.56,2.5,No,6.3,3.9,0.0
+67,F,19.0,12.0,"(RHV-IRHV plasty and fencing anatomosed to RHV- IVC.  Two V8 and one V5 PTFE 10 mm reconstruction connected to MHV-LHV),  single artery anastomosis, Single Bile ducts",154.0,107.6,712.0,174,52,10.4,1800,YES,YES GRADE 1,Not Mentioned,,9.6,3.84,4.698348623853211,176,2.03,0.69,2.5,No,11.9,10.4,0.0
+39,M,10.0,8.0,"RHV measures about 15mm, septoplasty to V7 vein. Partial MHV and V8 extended with 13mm PTFE graft unification venoplasty to create a single common outflow",164.0,78.0,536.0,117,42,5.5,200,NO,NO,NO,NO,8.2,81000.0,1.44,164,0.9,0.78,4.1,No,5.5,5.5,0.0
+49,M,17.0,9.0,"V8 with PTFE- Single outflow, IRHV to IVC, Single RPV and single artery, Right posterior sectoral duct to CHD and Right anterior sectoral duct to cystic duct",174.0,96.0,726.0,146,59,1.6,700,NO,Not Mentioned,Not Mentioned,,12.8,62000.0,1.65,126,5.8,0.86,2.4,No,2.4,1.6,0.0
+65,M,17.0,11.0,V5 + V8 + IRHV reconstruction,166.0,61.0,482.0,68,25,,300,YES,Not Mentioned,Not Mentioned,,15.3,260000.0,1.05,431,0.39,0.75,4.5,No,4.2,4.2,0.0
+40,M,11.0,12.0,V5 + V8 + IRHV reconstruction,176.5,78.0,613.0,165,41,3.2,2000,NO,Not Mentioned,Not Mentioned,NO,30,71.0,34.5,Negative,0.97,13.0,44.6,No,3.7,3.2,0.0
+56,M,17.0,13.0,V5 + V8 + IRHV reconstruction,177.0,93.0,678.0,111,58,,2000,NO,Not Mentioned,Not Mentioned,,9.5,160000.0,1.68,158,6.56,0.86,3.2,No,2.9,1.7,0.0
+64,M,27.0,13.0,2 IRHV - Venoplasty + extension; 2 V8 - venoplasty + 13mm PTFE,166.0,101.0,686.0,89,47,3.8,1000,NO,Not Mentioned,Not Mentioned,,11.7,214000.0,4.698348623853211,359,18.47,0.76,2.8,No,3.8,3.8,0.0
+46,M,23.0,9.0,"V5 (10mm PTFE), 2PV --> Y interposition graft",170.0,87.5,660.0,161,71,2,1800,No,Not Mentioned,Not Mentioned,,8.7,44000.0,2.01,143,8.51,1.12,2.9,No,2.3,2,0.0
+39,M,17.0,11.0,"Single Portal vein, Two Ducts in a cuff with single CHD    anastomsosis",180.0,80.0,592.0,138,49,2.1,1300,YES,Not Mentioned,Not Mentioned,,7.6,35000.0,23.0,150,3.79,1.18,2.6,No,2.6,2.1,0.0
+51,M,10.0,12.0,V8 PTFE reconstruction,176.0,74.1,578.0,135,40,2.9,1200,YES,Not Mentioned,Not Mentioned,,9.7,266000.0,1.26,313,0.75,0.75,2.9,No,2.6,2.4,0.0
+59,M,17.0,11.0,"Single Portal vein, Two Ducts in a cuff with single CHD anastomsosis",172.0,74.3,546.0,189,48,4.4,750,No,Not Mentioned,Not Mentioned,,11.7,183000.0,1.19,248,0.52,1.0,4.2,No,4.4,4.4,0.0
+45,F,18.0,13.0,V5 + V8 + IRHV reconstruction,158.0,77.0,480.0,66,44,2,700,No,Not Mentioned,Not Mentioned,,11.4,57000.0,1.52,197,7.55,1.12,2.5,No,2.5,2,0.0
+63,M,22.0,10.0,"V5 reconstruction 10 mm PTFE, Two D-D anastomosis",165.0,74.2,496.0,142,50,2.1,1000,Yes,Not Mentioned,Not Mentioned,, ,55000.0,1.88,250,3.13,0.95,2.8,No,,,0.0
+60,F,7.0,10.0,"V5 PTFE(10mm), New roux
+single anastomosis, 2 ducts - single anastomosis. Hepatojejunostomy
+done.",153.0,78.1,588.0,64,42,,800,No,Not Mentioned,Not Mentioned,,9.8,96000.0,1.05,372,1.33,0.67,3.5,No,3.1,2,0.0
+43,M,16.0,5.0,V5 + V8 + IRHV reconstruction,178.0,84.0,614.0,240,46,,1500,No,Not Mentioned,Not Mentioned,,9.7,84000.0,1.44,276,1.65,0.77,3.2,No,4.9,4.4,0.0
+53,F,12.0,12.0,V5 + V8 + IRHV reconstruction,148.0,48.7,358.0,31,44,3.6,800,NO,Not Mentioned,Not Mentioned,,11.9,205000.0,1.36,284,1.52,0.65,3.3,No,5.6,5.6,0.0
+53,M,11.0,9.0,"V5 and V8 extended with 8mm Dacron graft, Right Anterior and Right Posterior  portal veins (  Two in a cuff ) extended with Cryopreserved harvested portal  vein graft, Two Ducts Single    anastomsosis",191.0,100.0,658.0,140,40,1.5,900,NO,Not Mentioned,Not Mentioned,NO,44,73.0,37.7,NEGATIVE,0.33,172.8,103.9,No,1.9,1.5,0.0
+57,F,20.0,12.0,V8 reconstruction with PTFE graft,162.0,87.0,582.0,135,76,,1500,Yes,Not Mentioned,Not Mentioned,,8,68000.0,3.12,124,5.15,35.0,2.3,No,5.1,Not Mentioned,0.0
+18,F,30.0,10.0,V5 + V8 + IRHV reconstruction,152.0,49.3,306.0,88,41,6.7,800,NO,Not Mentioned,Not Mentioned,NO,33,28.0,41.6,,1.91,16.3,7.776315789473684,No,6.7,6.7,0.0
+52,M,20.0,11.0,V5 + V8 reconstruction,172.0,81.5,562.0,146,66,5.9,1000,NO,NO,NO,NO,13,112000.0,1.12,425,0.89,0.69,3.7,No,6.9,5.9,0.0
+46,M,14.0,11.0,V5 reconstruction,177.0,82.0,656.0,133,57,2.3,500,NO,Not Mentioned,Not Mentioned,,12.2,205000.0,1.69,255,2.03,0.89,2.7,No,2.3,,0.0
+36,M,17.0,9.0,V5 + V8 + IRHV reconstruction,167.0,86.2,688.0,139,35,,Not Mentioned,NO,Not Mentioned,Not Mentioned,,9.8,113000.0,2.24,137,2.9,1.35,2.5,No,Not Mentioned,Not Mentioned,0.0
+52,F,10.0,12.0,V5 + V8 + IRHV reconstruction,158.0,59.0,442.0,58,45,4,1500,YES,Not Mentioned,Not Mentioned,,7.9,133000.0,1.41,194,1.24,0.69,2.8,No,5.6,4,0.0
+59,M,11.0,13.0,"V5 and V8 reconstructed with
+composite 13 mm PTFE
+Single RPV and single RHA
+Two RHDs: One duct to duct anastomosis",160.5,84.5,562.0,114,56,7.4,1500,YES,Not Mentioned,Not Mentioned,,12.1,80000.0,1.15,244,1.44,6.2,3.5,No,10.4,7.4,0.0
+48,F,14.0,12.0,"Single portal vein, single arteries (LHA of donor anastomosed to GDA of the
+recipient), Single duct in the graft",168.8336283185841,33.1,288.0,120,20,,1300,No,Not Mentioned,Not Mentioned,,11.6,53000.0,2.07,144,2.01,0.39,3.9,No,4.2,4.2,0.0
+66,M,9.0,11.0,V5 + V8 reconstruction,175.0,87.7,642.0,145,38,5.6,2500,YES,Not Mentioned,Not Mentioned,,10.6,95000.0,1.22,420,1.19,0.92,4.7,No,6,5.6,0.0
+53,M,29.0,14.0,V5 + V8 + IRHV reconstruction,162.0,86.0,498.0,128,68,3.1,1000,No,NO,NO,NO,9.3,67000.0,2.09,174,20.13,0.87,3.2,No,3.4,3.1,0.0
+48,F,17.0,8.0,V5 + V8 + IRHV reconstruction,155.0,50.0,328.0,90,35,8.3,1000,No,No,No,No,6.6,96000.0,1.02,340,0.3,3.71,2.6,No,8.3,8.3,0.0
+56,M,20.0,11.0,V5 + V8 + IRHV reconstruction,166.0,90.0,600.0,163,42,7,800,Yes,Not Mentioned,Not Mentioned,,12.2,96000.0,1.94,214,6.52,0.79,2.2,No,8,7,0.0
+42,M,22.0,14.0,V5 + V8 + IRHV reconstruction,162.0,88.0,708.0,70,33,2.6,800,NO,Not Mentioned,Not Mentioned,,7.8,145000.0,1.95,147,4.2,0.77,2.8,No,2.6,2.6,0.0
+44,M,21.0,9.0,V8 reconstructed,172.0,98.0,640.0,99,50,2.8,750,YES,Not Mentioned,Not Mentioned,,11.9,98000.0,2.34,240,4.38,0.67,2.3,No,3.3,2.8,0.0
+46,M,22.0,12.0,RAPV + RPPV - Y graft,167.0,103.3,680.0,199,48,4.7,1000,No,Not Mentioned,Not Mentioned,,9.8,82000.0,2.09,166,2.4,0.97,3.2,Yes,Not Mentioned,Not Mentioned,0.0
+49,M,14.0,11.0,V8 reconstruction,162.0,85.5,608.0,201,85,3.2,1800,YES,Not Mentioned,Not Mentioned,,13.7,77000.0,1.53,217,3.12,0.69,3.0,No,3.8,3.2,0.0
+56,F,10.0,7.0,V5 + V8 (DACRON),140.0,65.3,504.0,93,48,,600,No,Not Mentioned,Not Mentioned,,10.7,251000.0,0.94,259,0.45,3.869646017699115,3.5,No,5.2,5.2,0.0
+37,M,7.0,9.0,"V5 reconstruction on 8 mm PTFE
+Single PV and single artery
+Duct to old roux loop anastomosis",178.0,101.5,732.0,81,31,1.7,750,NO,Not Mentioned,Not Mentioned,NO,44,51.0,28.2,NEGATIVE,0.36,9.7,39.1,No,2.2,1.7,0.0
+48,M,19.0,8.0,V5 + V8 reconstruction with 10mm PTFE,178.0,108.7,776.0,80,54,4.7,1100,NO,Not Mentioned,Not Mentioned,,11.6,57000.0,1.75,144,3.79,0.86,2.8,No,4.7,4.7,0.0
+52,M,22.0,12.0,"Single RHV, No IRHV, No anterior sector reconstruction, Single PV and single artery, Single duct to duct  anastomosis",178.0,90.0,608.0,82,35,7.5,800,NO,Not Mentioned,Not Mentioned,NO,38,68.0,36.7,NEGATIVE,1.68,12.9,90.9,No,7.5,7.5,0.0
+39,M,24.0,9.0,V5 + V8 + IRHV reconstruction,165.0,55.3,438.0,137,45,,900,No,NO,NO,NO,10,378000.0,3.37,107,1.68,0.59,3.9,No,4.8,4.3,0.0
+63,M,10.0,10.0,"V5 and V8 reconstructed with a -Complex PTFE and Cadvaeric iliac artery graft   , Two  Portal vein recontructed with a Native Portal vein Y graft , 3 ducts   in three    anastomsosis",170.0,85.8,596.0,175,55,5.2,1800,YES,Not Mentioned,Not Mentioned,NO,41,63.0,39.2,Negative,0.36,10.4,49.1,Yes,Not Mentioned,Not Mentioned,0.0
+58,M,15.0,11.0,V5 + V8 + IRHV reconstruction,167.0,90.0,652.0,43,33,,700,NO,Not Mentioned,Not Mentioned,YES,32,57.0,36.9,,1.47,8.8,45.7,No,3.2,1.9,0.0
+61,F,9.0,8.0,V5 + V8 + IRHV reconstruction,156.0,87.2,602.0,63,49,,,No,Not Mentioned,Not Mentioned,,11.9,155000.0,1.19,314,0.85,1.01,3.4,No,,,0.0
+57,M,16.0,12.0,V5 + V8 + IRHV reconstruction,160.0,82.0,638.0,83,43,,700,NO,Not Mentioned,Not Mentioned,,13.6,119000.0,1.21,428,7.84,0.78,3.1,No,8,7,0.0
+49,M,18.0,14.0,"V8  reconstructed with a 10mm PTFE  graft   , Two arteries (One ligated )Single Portal vein , Single Duct ",174.0,79.0,628.0,104,46,1.6,800,YES,NO,NO,NO,13,67000.0,2.25,144,POSITIVE,0.9,2.7,No,1.8,1.7,0.0
+41,M,18.0,12.0,"V5  reconstructed with a PTFE  graft   , Two  Portal vein , Two arteries ,Single Duct ",172.0,73.0,604.0,110,30,7.1,1500,NO,Not Mentioned,Not Mentioned,,12.3,68000.0,2.32,123,8.36,1.2,2.3,Yes,2.4,19,0.0
+44,M,11.0,11.0,V5 + V8 + IRHV reconstruction,164.0,108.0,826.0,86,40,2.9,1400,No,Not Mentioned,Not Mentioned,,12.1,113000.0,2.88,151,1.09,0.54,3.1,No,,,0.0
+30,M,17.0,11.0,V5 + V8 + IRHV reconstruction,170.0,60.0,444.0,341,42,,Not Mentioned,No,Not Mentioned,Not Mentioned,,9.7,105000.0,2.68,148,11.21,0.23,3.6,No,Not Mentioned,Not Mentioned,0.0
+52,M,12.0,11.0,V8 PTFE reconstruction,169.0,80.41,540.0,227,28,5,600,Yes,NO,NO,NO,NO,400000.0,1.81,334,1.51,0.59,3.5,No,6,5,0.0
+42,M,13.0,12.0,"Single RHV, V5 PTFE, 2 PV( RPV- recipient portal vein extension), RHA, 2 RHD ",176.0,95.0,694.0,127,43,5.2,1000,No,Not Mentioned,Not Mentioned,,9.8,105000.0,1.7,188,1.18,0.62,2.6,No,6,5.2,0.0
+43,M,17.0,11.0,V5 + V8 + IRHV reconstruction,181.0,107.8,716.0,220,58,,3000,Yes,Not Mentioned,Not Mentioned,NO,34,75.0,38.1,negative,0.51,7.4,42.3,No,5,Not mentioned,0.0
+59,M,19.0,11.0,V5 + V8 + IRHV reconstruction,175.0,77.5,564.0,243,46,2.3,1000,Yes,Not Mentioned,Not Mentioned,,10.1,83000.0,2.66,123,0.86,1.34,3.7,No,2.9,2.3,0.0
+57,M,12.0,12.0,V5 + V8 + IRHV reconstruction,162.0,62.4,434.0,55,48,,650,No,Not Mentioned,Not Mentioned,,10.4,214000.0,1.66,228,3.44,0.59,3.1,No,Not mentioned,Not mentioned,0.0
+63,M,15.0,11.0,"Single portal vein, rLHA, LHD (2 in a cuff)",169.0,56.0,444.0,61,41,,1700,Yes,Not Mentioned,Not Mentioned,NO,26,68.0,29.9,NEGATIVE,0.35,12.7,32.9,No,3,1.8,0.0
+48,M,17.0,11.0,"Right hepatic veinV5 PTFE Two PVs (Y graft reconstruction with cryopreserved PV(another recipient) ) , Single RHA.Two ducts in a cuff",171.0,74.0,598.0,196,67,2,1800,Yes,Not Mentioned,Not Mentioned,NO,31,69.0,0.97,,0.69,15.4,66.4,No,2.8,2,0.0
+47,M,26.0,10.0,V5 + V8 + IRHV reconstruction,175.0,86.4,572.0,143,40,,800,NO,NO,NO,NO,12.2,112000.0,1.29,217,0.56,0.68,3.7,No,1.2,1.2,0.0
+44,M,23.0,10.0,V5 PTFE,167.0,78.0,592.0,69,34,1.1,700,No,No,No,No,13.9,174000.0,1.24,232,0.46,0.89,4.5,No,2.3,1.1,0.0
+50,M,26.0,11.0,"Vein extension graft, Single portal vein
+LHA - RHA, LHD - CHD",169.0,60.0,432.0,54,33,,Not Mentioned,Yes,Not Mentioned,Not Mentioned,NO,29,67.0,0.98,NEGATIVE,5.47,21.3,42.6,No,Not Mentioned,Not Mentioned,0.0
+37,M,17.0,11.0,V5 reconstruction on 8mm PTFE,167.5,78.8,596.0,173,49,,1220,No,Not Mentioned,Not Mentioned,,11.9,192000.0,1.01,175,0.31,0.78,4.6,No,8.6,8.5,0.0
+70,M,17.0,11.0,extension graft using cadaveric iliac vein graft ,164.0,59.4,464.0,98,38,,2000,Yes,Not Mentioned,Not Mentioned,,7.2,19000.0,2.67,125,12.48,1.15,2.8,No,3.3,3.1,0.0
+58,M,16.0,11.0,V8 - PTFE,177.0,91.6,724.0,75,44,11.2,800,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,No,11.2,11.2,0.0
+52,M,24.0,12.0,Y graft done using recipient PV,170.0,100.8,750.0,115,46,5.1,1000,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,Yes-y graft of native PV used for 2 PV in graft,7.2,5.1,0.0
+54,M,14.0,12.0,V5 + V8 + IRHV reconstruction,170.0,90.9,612.0,111,50,2,600,No,Not Mentioned,Not Mentioned,,,98466.90295652174,4.698348623853211,,,3.869646017699115,7.776315789473684,No,3,2.6,0.0
